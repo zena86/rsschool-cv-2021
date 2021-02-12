@@ -3,8 +3,8 @@
 
 ## **CONTACT ME**
 **Phone:** +375 (29) 505 72 32  
-**Web:** jk.mostovaya@gmail.com  
-**GitHub:** https://github.com/zena86/  
+**Web:** [jk.mostovaya@gmail.com](mailto:jk.mostovaya@gmail.com)  
+**GitHub:** [https://github.com/zena86](https://github.com/zena86)
 
 ## **ABOUT ME**
 I spend a lot of time educating myself.  
@@ -64,20 +64,20 @@ I strive for development and professional growth.
    </div>	
 ```
 ## **EXPERIENCE** 
-**Nike:**  https://github.com/zena86/nike    
-**Jetro:** https://github.com/zena86/jetro  
-**STEAM:** https://github.com/zena86/ste-am  
-**Visit Bahari:** https://github.com/zena86/visit-bahari  
-**Lets Get Lost:** https://github.com/zena86/lets-get-lost  
-**Avenue fashion:** https://github.com/zena86/avenue-fashion  
-**Pinball:** https://github.com/zena86/pinball  
-**Firefly:** https://github.com/zena86/firefly  
-**covid19forecast:** https://github.com/zena86/covid-forecast  
-**Сovid-19:** https://github.com/zena86/covid-19  
-**Freelancer:** https://github.com/zena86/freelancer  
-**Сolor:** https://github.com/zena86/color  
-**Safari Tour:** https://github.com/zena86/safari-tour  
-**Guyon:** https://github.com/zena86/guyon
+**Nike:**  [https://github.com/zena86/nike](https://github.com/zena86/nike)   
+**Jetro:** [https://github.com/zena86/jetro](https://github.com/zena86/jetro)  
+**STEAM:** [https://github.com/zena86/ste-am](https://github.com/zena86/ste-am)  
+**Visit Bahari:** [https://github.com/zena86/visit-bahari](https://github.com/zena86/visit-bahari)  
+**Lets Get Lost:** [https://github.com/zena86/lets-get-lost](https://github.com/zena86/lets-get-lost)  
+**Avenue fashion:** [https://github.com/zena86/avenue-fashion](https://github.com/zena86/avenue-fashion)  
+**Pinball:** [https://github.com/zena86/pinball](https://github.com/zena86/pinball) 
+**Firefly:** [https://github.com/zena86/firefly](https://github.com/zena86/firefly)  
+**covid19forecast:** [https://github.com/zena86/covid-forecast](https://github.com/zena86/covid-forecast)  
+**Сovid-19:** [https://github.com/zena86/covid-19](https://github.com/zena86/covid-19)  
+**Freelancer:** [https://github.com/zena86/freelancer](https://github.com/zena86/freelancer) 
+**Сolor:** [https://github.com/zena86/color](https://github.com/zena86/color)  
+**Safari Tour:** [https://github.com/zena86/safari-tour](https://github.com/zena86/safari-tour)  
+**Guyon:** [https://github.com/zena86/guyon](https://github.com/zena86/guyon)
 
 ## **EDUCATION** 
 Belarusian State Technological University
