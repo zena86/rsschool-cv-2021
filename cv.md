@@ -2,8 +2,9 @@
  Front-end Developer
 
 ## **CONTACT ME**
-**phone:** +375 (29) 505 72 32  
-**web:** jk.mostovaya@gmail.com
+**Phone:** +375 (29) 505 72 32  
+**Web:** jk.mostovaya@gmail.com
+**GitHub** https://github.com/zena86/  
 
 ## **ABOUT ME**
 I spend a lot of time educating myself.  
@@ -37,7 +38,8 @@ I strive for development and professional growth.
 * API Яндекс.Карт   
 
 **Tools:**   
-* Brackets     
+* Brackets
+* VS Code   
 * Adobe Photoshop  
 * Figma  
 * Adobe XD  
