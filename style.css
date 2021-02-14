@@ -5,6 +5,7 @@
 .content {
    padding: 10px 50px 50px 50px;
 }
+/*HEADER*/
 .face {
    display: -webkit-box;
    display: -ms-flexbox;
@@ -105,4 +106,31 @@ i {
    display: block;
    width: 180px;
    border-radius: 100%;
+}
+.about__body {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+.about__right {
+	-ms-flex-preferred-size: 23%;
+	flex-basis: 23%;
+	min-width: 230px;
+}
+.about__left {
+	-ms-flex-preferred-size: 77%;
+	flex-basis: 77%;
+}
+.about-me {
+	margin-bottom: 30px;
+}
+.text {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22px;
+	color: #9aa0ab;
+}
+.subtitle {
+	font-weight: 700;
 }
