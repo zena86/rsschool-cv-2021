@@ -13,19 +13,15 @@ ul li {
    margin-bottom: 50px;
 }
 .row {
-	display: -webkit-box;
-	display: -ms-flexbox;
 	display: flex;
 	margin-bottom: 20px;
 }
 .col-left {
-	-ms-flex-preferred-size: 23%;
 	flex-basis: 23%;
 	min-width: 230px;
    padding-right: 30px;
 }
 .col-right {
-	-ms-flex-preferred-size: 77%;
 	flex-basis: 77%;
 }
 /*HEADER*/
@@ -54,8 +50,10 @@ ul li {
    left: 0;
    width: 100%;
    height: 100%;
-   object-fit: cover;
-   object-position: center;
+   -o-object-fit: cover;
+      object-fit: cover;
+   -o-object-position: center;
+      object-position: center;
    border-radius: 100%;
 }
 .name {
@@ -86,17 +84,13 @@ a:hover {
    color: #9aa0ab;
 }
 .about__body {
-	display: -webkit-box;
-	display: -ms-flexbox;
 	display: flex;
 }
 .about__right {
-	-ms-flex-preferred-size: 23%;
 	flex-basis: 23%;
 	min-width: 230px;
 }
 .about__left {
-	-ms-flex-preferred-size: 77%;
 	flex-basis: 77%;
 }
 .text {
@@ -117,8 +111,6 @@ a:hover {
 
 .title_box {
 	border-bottom: solid 1px rgb(185, 192, 198);
-	display: -webkit-box;
-	display: -ms-flexbox;
 	display: flex;
 	margin-bottom: 30px;
 }
@@ -148,18 +140,14 @@ a:hover {
    content: "";
 }
 .row {
-	display: -webkit-box;
-	display: -ms-flexbox;
 	display: flex;
 	margin-bottom: 20px;
 }
 .col-left {
-	-ms-flex-preferred-size: 23%;
 	flex-basis: 23%;
 	min-width: 230px;
 }
 .col-right {
-	-ms-flex-preferred-size: 77%;
 	flex-basis: 77%;
 }
 
@@ -173,12 +161,15 @@ a:hover {
 }
 
 /*Code*/
-
+pre { 
+   margin-left: 30px;
+}
 .code {
    font-size: 16px;
-   font-weight: 700;
+   font-weight: 400;
 	line-height: 22px;
 	color: #9aa0ab;
+   width: 100%;
 }
 
 /*Footer*/
@@ -202,8 +193,10 @@ a:hover {
    left: 0;
    width: 100%;
    height: 100%;
-   object-fit: contain;
-   object-position: center;
+   -o-object-fit: contain;
+      object-fit: contain;
+   -o-object-position: center;
+      object-position: center;
 }
 .footer_time {
    font-family: 'Open Sans', sans-serif;
@@ -223,8 +216,7 @@ a:hover {
    }
    .header_body {
       flex-wrap: wrap;
-      align-items: flex-start;
-      justify-content: center;
+      justify-content: flex-end;
    }
    .item__photo {
       order: 1;
@@ -254,6 +246,7 @@ a:hover {
    .sect {
       margin-bottom: 40px;
    }
+
 }
 
 
